@@ -29,7 +29,7 @@ namespace ppe1
         {
             InitializeComponent();
             infoUser = infoUserr;
-            //dataGridLog
+            //dataGridLoggg
             this.dtLog.ColumnCount = 6;
             dtLog.Columns[4].Width = 150;
             dtLog.Columns[5].Width = 150;
